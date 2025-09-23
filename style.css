@@ -491,6 +491,8 @@ section {
 .contact form{
   flex-direction: column;
 }
-
+.social-icons a{
+  font-size: 1.5rem;
+}
 }
 
